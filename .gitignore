@@ -170,3 +170,4 @@ venv.bak/
 
 
 # End of https://www.gitignore.io/api/jetbrains,pip,python
+.rordata.venv
