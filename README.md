@@ -2,7 +2,7 @@
 
 ````
 I'm just doing the below challenge for the fun of it. 
-If you are looking for a career in devops in rordata, 
+If you are looking for a career in devops in rorodata, 
 see below for details.
 ````
 
